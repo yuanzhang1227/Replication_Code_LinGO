@@ -17,4 +17,6 @@ This repository contains all Python scripts used for the experiments in the pape
 ## Data Availability
 Due to privacy considerations and platform data-sharing restrictions, we do not release raw Twitter/X content or user identifiers. We share only derived annotations (incivility category labels, intention labels, and reasoning paths), which do not enable re-identification. 
 
+- **incivi_dev_content_removed.csv**: development dataset 
+- **incivi_test_content_removed.csv**: test dataset
 
