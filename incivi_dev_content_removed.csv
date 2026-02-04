@@ -1,4 +1,4 @@
-Unnamed: 0,content,intention_label,reason
+,content,intention_label,reason
 0,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
 1,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
 2,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
