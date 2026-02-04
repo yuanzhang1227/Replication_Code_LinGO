@@ -1038,5 +1038,3 @@ if __name__ == "__main__":
         seed=42,
         output_dir="RAG_LinGO_Claude_outputs_0201",  
     )
-
-## Results: Claude (Test Accuracy: 0.4787; Test F1 weighted: 0.4887), Gemini ( Test Accuracy: 0.6900; Test F1 weighted: 0.6992); GPT (Accuracy: 0.6550; F1 (weighted): 0.6765)
