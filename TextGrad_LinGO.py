@@ -1131,5 +1131,3 @@ if __name__ == "__main__":
         textgrad_batch_size=6,   # Batch size for TextGrad
         textgrad_max_batches=30  # Max batches per epoch
     )
-
-## Results: Gemini (Accuracy: 0.5175; F1 weighted: 0.5504); GPT (Accuracy: 0.5900; F1 weighted: 0.614)
