@@ -1599,5 +1599,3 @@ if __name__ == "__main__":
         k_step_examples=4,
         k_error_examples=4,
     )
-
-## Results: Claude (Test Accuracy: 0.3650; Test Weighted F1: 0.3795); Gemini (Test Accuracy: 0.5300; Test Weighted F1: 0.5505); GPT (Test Accuracy: 0.6200; Test Weighted F1: 0.6373)
