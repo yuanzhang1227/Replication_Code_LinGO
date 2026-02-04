@@ -1,0 +1,1601 @@
+Unnamed: 0,content,intention_label,reason
+0,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+2,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+3,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+4,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+5,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+6,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+7,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+8,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+9,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+10,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+11,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+12,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+13,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+14,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+15,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+16,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+17,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+18,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+19,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+20,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+21,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+22,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+23,[Impoliteness],2,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+24,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+25,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+26,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+27,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+28,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+29,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+30,[Impoliteness],2,STEP 1: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+31,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+32,[Impoliteness],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+33,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+34,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+35,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+36,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+37,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+38,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+39,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+40,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+41,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+42,[Impoliteness],2,STEP 1: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+43,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+44,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+45,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+46,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+47,[Impoliteness],2,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+48,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+49,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+50,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+51,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+52,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+53,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+54,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+55,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+56,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+57,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+58,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+59,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+60,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+61,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+62,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+63,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+64,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+65,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+66,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+67,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+68,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+69,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+70,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+71,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+72,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+73,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+74,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+75,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+76,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+77,[Impoliteness],2,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+78,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+79,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+80,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+81,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+82,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+83,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+84,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+85,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+86,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+87,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+88,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+89,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+90,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+91,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+92,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+93,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+94,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+95,[Impoliteness],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+96,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+97,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+98,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+99,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+100,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+101,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+102,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+103,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+104,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+105,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+106,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+107,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+108,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+109,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+110,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+111,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+112,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+113,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+114,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+115,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+116,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+117,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+118,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+119,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+120,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+121,[Impoliteness],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+122,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+123,[Impoliteness],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+124,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+125,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+126,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+127,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+128,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+129,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+130,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+131,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+132,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+133,[Impoliteness],2,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+134,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+135,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+136,[Impoliteness],2,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+137,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+138,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+139,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+140,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+141,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+142,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+143,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+144,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+145,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+146,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+147,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+148,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+149,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+150,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+151,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+152,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+153,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+154,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+155,[Impoliteness],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+156,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+157,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+158,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+159,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+160,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+161,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+162,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+163,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+164,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+165,[Impoliteness],2,STEP 1: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+166,[Impoliteness],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+167,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+168,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+169,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+170,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+171,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+172,[Impoliteness],2,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+173,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+174,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+175,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+176,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+177,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+178,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+179,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+180,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+181,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+182,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+183,[Impoliteness],2,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+184,[Impoliteness],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+185,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+186,[Impoliteness],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+187,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+188,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+189,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+190,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+191,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+192,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+193,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+194,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+195,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+196,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+197,[Impoliteness],2,STEP 1: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+198,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+199,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+200,[Impoliteness],2,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+201,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+202,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+203,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+204,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+205,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+206,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+207,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+208,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+209,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+210,[Impoliteness],2,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+211,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+212,[Impoliteness],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+213,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+214,[Impoliteness],6,STEP 1: YES → STEP 2: YES → STEP 3: Escalate→ LABEL: 6
+215,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+216,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+217,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+218,[Impoliteness],2,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+219,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+220,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+221,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+222,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+223,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+224,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+225,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+226,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+227,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+228,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+229,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+230,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+231,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+232,[Impoliteness],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+233,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+234,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+235,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+236,[Impoliteness],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+237,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+238,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+239,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+240,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+241,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+242,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+243,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+244,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+245,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+246,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+247,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+248,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+249,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+250,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+251,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+252,[Impoliteness],2,STEP 1: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+253,[Impoliteness],2,STEP 1: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+254,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+255,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+256,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+257,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+258,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+259,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+260,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+261,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+262,[Impoliteness],2,STEP 1: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+263,[Impoliteness],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+264,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+265,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+266,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+267,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+268,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+269,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+270,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+271,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+272,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+273,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+274,[Impoliteness],6,STEP 1: YES → STEP 2: YES → STEP 3: Escalate→ LABEL: 6
+275,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+276,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+277,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+278,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+279,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+280,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+281,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+282,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+283,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+284,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+285,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+286,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+287,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+288,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+289,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+290,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+291,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+292,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+293,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+294,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+295,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+296,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+297,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+298,[Impoliteness],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+299,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+300,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+301,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+302,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+303,[Impoliteness],2,STEP 1: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+304,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+305,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+306,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+307,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+308,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+309,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+310,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+311,[Impoliteness],2,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+312,[Impoliteness],6,STEP 1: YES → STEP 2: YES → STEP 3: Escalate→ LABEL: 6
+313,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+314,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+315,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+316,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+317,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+318,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+319,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+320,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+321,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+322,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+323,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+324,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+325,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+326,[Impoliteness],2,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+327,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+328,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+329,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+330,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+331,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+332,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+333,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+334,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+335,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+336,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+337,[Impoliteness],2,STEP 1: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+338,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+339,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+340,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+341,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+342,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+343,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+344,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+345,[Impoliteness],2,STEP 1: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+346,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+347,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+348,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+349,[Impoliteness],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+350,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+351,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+352,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+353,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+354,[Impoliteness],6,STEP 1: YES → STEP 2: YES → STEP 3: Escalate→ LABEL: 6
+355,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+356,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+357,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+358,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+359,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+360,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+361,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+362,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+363,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+364,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+365,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+366,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+367,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+368,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+369,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+370,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+371,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+372,[Impoliteness],2,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+373,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+374,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+375,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+376,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+377,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+378,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+379,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+380,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+381,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+382,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+383,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+384,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+385,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+386,[Impoliteness],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+387,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+388,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+389,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+390,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+391,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+392,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+393,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+394,[Impoliteness],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+395,[Impoliteness],2,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+396,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+397,[Impoliteness],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+398,[Impoliteness],6,STEP 1: YES → STEP 2: YES → STEP 3: Escalate→ LABEL: 6
+399,[Impoliteness],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+400,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+401,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+402,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+403,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+404,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+405,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+406,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+407,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+408,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+409,[Hate Speech and Stereotyping],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+410,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+411,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+412,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+413,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+414,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+415,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+416,[Hate Speech and Stereotyping],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+417,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+418,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+419,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+420,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+421,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+422,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+423,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+424,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+425,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+426,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+427,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+428,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+429,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+430,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+431,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+432,[Hate Speech and Stereotyping],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+433,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+434,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+435,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+436,[Hate Speech and Stereotyping],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+437,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+438,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+439,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+440,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+441,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+442,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+443,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+444,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+445,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+446,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+447,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+448,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+449,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+450,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+451,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+452,[Hate Speech and Stereotyping],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+453,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+454,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+455,[Hate Speech and Stereotyping],2,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+456,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+457,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+458,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+459,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+460,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+461,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+462,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+463,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+464,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+465,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+466,[Hate Speech and Stereotyping],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+467,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+468,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+469,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+470,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+471,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+472,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+473,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+474,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+475,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+476,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+477,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+478,[Hate Speech and Stereotyping],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+479,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+480,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+481,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+482,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+483,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+484,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+485,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+486,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+487,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+488,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+489,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+490,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+491,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+492,[Hate Speech and Stereotyping],6,STEP 1: YES → STEP 2: YES → STEP 3: Escalate→ LABEL: 6
+493,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+494,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+495,[Hate Speech and Stereotyping],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+496,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+497,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+498,[Hate Speech and Stereotyping],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+499,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+500,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+501,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+502,[Hate Speech and Stereotyping],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+503,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+504,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+505,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+506,[Hate Speech and Stereotyping],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+507,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+508,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+509,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+510,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+511,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+512,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+513,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+514,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+515,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+516,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+517,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+518,[Hate Speech and Stereotyping],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+519,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+520,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+521,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+522,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+523,[Hate Speech and Stereotyping],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+524,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+525,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+526,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+527,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+528,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+529,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+530,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+531,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+532,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+533,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+534,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+535,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+536,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+537,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+538,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+539,[Hate Speech and Stereotyping],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+540,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+541,[Hate Speech and Stereotyping],6,STEP 1: YES → STEP 2: YES → STEP 3: Escalate→ LABEL: 6
+542,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+543,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+544,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+545,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+546,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+547,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+548,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+549,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+550,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+551,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+552,[Hate Speech and Stereotyping],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+553,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+554,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+555,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+556,[Hate Speech and Stereotyping],2,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+557,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+558,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+559,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+560,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+561,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+562,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+563,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+564,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+565,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+566,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+567,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+568,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+569,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+570,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+571,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+572,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+573,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+574,[Hate Speech and Stereotyping],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+575,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+576,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+577,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+578,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+579,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+580,[Hate Speech and Stereotyping],6,STEP 1: YES → STEP 2: YES → STEP 3: Escalate→ LABEL: 6
+581,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+582,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+583,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+584,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+585,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+586,[Hate Speech and Stereotyping],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+587,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+588,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+589,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+590,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+591,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+592,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+593,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+594,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+595,[Hate Speech and Stereotyping],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+596,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+597,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+598,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+599,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+600,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+601,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+602,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+603,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+604,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+605,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+606,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+607,[Hate Speech and Stereotyping],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+608,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+609,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+610,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+611,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+612,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+613,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+614,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+615,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+616,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+617,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+618,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+619,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+620,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+621,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+622,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+623,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+624,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+625,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+626,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+627,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+628,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+629,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+630,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+631,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+632,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+633,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+634,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+635,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+636,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+637,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+638,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+639,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+640,[Hate Speech and Stereotyping],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+641,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+642,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+643,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+644,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+645,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+646,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+647,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+648,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+649,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+650,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+651,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+652,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+653,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+654,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+655,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+656,[Hate Speech and Stereotyping],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+657,[Hate Speech and Stereotyping],6,STEP 1: YES → STEP 2: YES → STEP 3: Escalate→ LABEL: 6
+658,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+659,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+660,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+661,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+662,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+663,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+664,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+665,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+666,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+667,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+668,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+669,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+670,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+671,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+672,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+673,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+674,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+675,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+676,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+677,[Hate Speech and Stereotyping],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+678,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+679,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+680,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+681,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+682,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+683,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+684,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+685,[Hate Speech and Stereotyping],2,STEP 1: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+686,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+687,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+688,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+689,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+690,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+691,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+692,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+693,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+694,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+695,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+696,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+697,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+698,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+699,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+700,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+701,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+702,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+703,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+704,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+705,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+706,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+707,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+708,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+709,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+710,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+711,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+712,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+713,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+714,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+715,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+716,[Hate Speech and Stereotyping],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+717,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+718,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+719,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+720,[Hate Speech and Stereotyping],2,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+721,[Hate Speech and Stereotyping],2,STEP 1: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+722,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+723,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+724,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+725,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+726,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+727,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+728,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+729,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+730,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+731,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+732,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+733,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+734,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+735,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+736,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+737,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+738,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+739,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+740,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+741,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+742,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+743,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+744,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+745,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+746,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+747,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+748,[Hate Speech and Stereotyping],2,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+749,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+750,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+751,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+752,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+753,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+754,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+755,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+756,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+757,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+758,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+759,[Hate Speech and Stereotyping],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+760,[Hate Speech and Stereotyping],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+761,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+762,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+763,[Hate Speech and Stereotyping],2,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+764,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+765,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+766,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+767,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+768,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+769,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+770,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+771,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+772,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+773,[Hate Speech and Stereotyping],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+774,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+775,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+776,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+777,[Hate Speech and Stereotyping],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+778,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+779,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+780,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+781,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+782,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+783,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+784,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+785,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+786,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+787,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+788,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+789,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+790,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+791,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+792,[Hate Speech and Stereotyping],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+793,[Hate Speech and Stereotyping],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+794,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+795,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+796,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+797,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+798,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+799,[Hate Speech and Stereotyping],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+800,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+801,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+802,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+803,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+804,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+805,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+806,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+807,[Physical Harm and Violent Political Rhetoric],2,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+808,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+809,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+810,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+811,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+812,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+813,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+814,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+815,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+816,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+817,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+818,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+819,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+820,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+821,[Physical Harm and Violent Political Rhetoric],6,STEP 1: YES → STEP 2: YES → STEP 3: Escalate→ LABEL: 6
+822,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+823,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+824,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+825,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+826,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+827,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+828,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+829,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+830,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+831,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+832,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+833,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+834,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+835,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+836,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+837,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+838,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+839,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+840,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+841,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+842,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+843,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+844,[Physical Harm and Violent Political Rhetoric],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+845,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+846,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+847,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+848,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+849,[Physical Harm and Violent Political Rhetoric],6,STEP 1: YES → STEP 2: YES → STEP 3: Escalate→ LABEL: 6
+850,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+851,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+852,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+853,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+854,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+855,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+856,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+857,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+858,[Physical Harm and Violent Political Rhetoric],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+859,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+860,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+861,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+862,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+863,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+864,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+865,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+866,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+867,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+868,[Physical Harm and Violent Political Rhetoric],2,STEP 1: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+869,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+870,[Physical Harm and Violent Political Rhetoric],6,STEP 1: YES → STEP 2: YES → STEP 3: Escalate→ LABEL: 6
+871,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+872,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+873,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+874,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+875,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+876,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+877,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+878,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+879,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+880,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+881,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+882,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+883,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+884,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+885,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+886,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+887,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+888,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+889,[Physical Harm and Violent Political Rhetoric],2,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+890,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+891,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+892,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+893,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+894,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+895,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+896,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+897,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+898,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+899,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+900,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+901,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+902,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+903,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+904,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+905,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+906,[Physical Harm and Violent Political Rhetoric],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+907,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+908,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+909,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+910,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+911,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+912,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+913,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+914,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+915,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+916,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+917,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+918,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+919,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+920,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+921,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+922,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+923,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+924,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+925,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+926,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+927,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+928,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+929,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+930,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+931,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+932,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+933,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+934,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+935,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+936,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+937,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+938,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+939,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+940,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+941,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+942,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+943,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+944,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+945,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+946,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+947,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+948,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+949,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+950,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+951,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+952,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+953,[Physical Harm and Violent Political Rhetoric],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+954,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+955,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+956,[Physical Harm and Violent Political Rhetoric],6,STEP 1: YES → STEP 2: YES → STEP 3: Escalate→ LABEL: 6
+957,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+958,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+959,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+960,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+961,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+962,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+963,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+964,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+965,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+966,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+967,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+968,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+969,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+970,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+971,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+972,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+973,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+974,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+975,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+976,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+977,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+978,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+979,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+980,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+981,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+982,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+983,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+984,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+985,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+986,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+987,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+988,[Physical Harm and Violent Political Rhetoric],6,STEP 1: YES → STEP 2: YES → STEP 3: Escalate→ LABEL: 6
+989,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+990,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+991,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+992,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+993,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+994,[Physical Harm and Violent Political Rhetoric],6,STEP 1: YES → STEP 2: YES → STEP 3: Escalate→ LABEL: 6
+995,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+996,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+997,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+998,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+999,[Physical Harm and Violent Political Rhetoric],2,STEP 1: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+1000,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1001,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1002,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1003,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1004,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1005,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1006,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1007,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1008,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1009,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1010,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1011,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1012,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1013,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1014,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1015,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1016,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1017,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1018,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1019,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1020,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1021,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1022,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1023,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1024,[Physical Harm and Violent Political Rhetoric],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+1025,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1026,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1027,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1028,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1029,[Physical Harm and Violent Political Rhetoric],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+1030,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1031,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1032,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1033,[Physical Harm and Violent Political Rhetoric],6,STEP 1: YES → STEP 2: YES → STEP 3: Escalate→ LABEL: 6
+1034,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1035,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1036,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1037,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1038,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1039,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1040,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1041,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1042,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1043,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1044,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1045,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1046,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1047,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1048,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1049,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1050,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1051,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1052,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1053,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1054,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1055,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1056,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1057,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1058,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1059,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1060,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1061,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1062,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1063,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1064,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1065,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1066,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1067,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1068,[Physical Harm and Violent Political Rhetoric],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+1069,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1070,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1071,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1072,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1073,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1074,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1075,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1076,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1077,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1078,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1079,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1080,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1081,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1082,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1083,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1084,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1085,[Physical Harm and Violent Political Rhetoric],2,STEP 1: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+1086,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1087,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1088,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1089,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1090,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1091,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1092,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1093,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1094,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1095,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1096,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1097,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1098,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1099,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1100,[Physical Harm and Violent Political Rhetoric],6,STEP 1: YES → STEP 2: YES → STEP 3: Escalate→ LABEL: 6
+1101,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1102,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1103,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1104,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1105,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1106,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1107,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1108,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1109,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1110,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1111,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1112,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1113,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1114,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1115,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1116,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1117,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1118,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1119,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1120,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1121,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1122,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1123,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1124,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1125,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1126,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1127,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1128,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1129,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1130,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1131,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1132,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1133,[Physical Harm and Violent Political Rhetoric],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+1134,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1135,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1136,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1137,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1138,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1139,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1140,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1141,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1142,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1143,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1144,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1145,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1146,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1147,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1148,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1149,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1150,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1151,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1152,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1153,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1154,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1155,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1156,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1157,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1158,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1159,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1160,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1161,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1162,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1163,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1164,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1165,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1166,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1167,[Physical Harm and Violent Political Rhetoric],2,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+1168,[Physical Harm and Violent Political Rhetoric],2,STEP 1: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+1169,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1170,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1171,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1172,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1173,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1174,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1175,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1176,[Physical Harm and Violent Political Rhetoric],2,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+1177,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1178,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1179,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1180,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1181,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1182,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1183,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1184,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1185,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1186,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1187,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1188,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1189,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1190,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1191,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1192,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1193,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1194,[Physical Harm and Violent Political Rhetoric],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1195,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1196,[Physical Harm and Violent Political Rhetoric],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1197,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1198,[Physical Harm and Violent Political Rhetoric],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1199,[Physical Harm and Violent Political Rhetoric],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1200,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1201,[Threats to Democratic Insititutions and Values],1,STEP 1: NO → STEP 4: NO → LABEL: 0
+1202,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1203,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1204,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1205,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1206,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1207,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1208,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1209,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1210,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1211,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1212,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1213,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1214,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1215,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1216,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1217,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1218,[Threats to Democratic Insititutions and Values],1,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1219,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1220,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1221,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1222,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1223,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1224,[Threats to Democratic Insititutions and Values],6,STEP 1: YES → STEP 2: YES → STEP 3: Escalate→ LABEL: 6
+1225,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1226,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1227,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1228,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1229,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1230,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1231,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1232,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1233,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1234,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1235,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1236,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1237,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1238,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1239,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1240,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1241,[Threats to Democratic Insititutions and Values],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+1242,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1243,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1244,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1245,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1246,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1247,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1248,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1249,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1250,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1251,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1252,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1253,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1254,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1255,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1256,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1257,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1258,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1259,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1260,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1261,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1262,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1263,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1264,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1265,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1266,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1267,[Threats to Democratic Insititutions and Values],2,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+1268,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1269,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1270,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1271,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1272,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1273,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1274,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1275,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1276,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1277,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1278,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1279,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1280,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1281,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1282,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1283,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1284,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1285,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1286,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1287,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1288,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1289,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1290,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1291,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1292,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1293,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1294,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1295,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1296,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1297,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1298,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1299,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1300,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1301,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1302,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1303,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1304,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1305,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1306,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1307,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1308,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1309,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1310,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1311,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1312,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1313,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1314,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1315,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1316,[Threats to Democratic Insititutions and Values],2,STEP 1: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+1317,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1318,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1319,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1320,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1321,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1322,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1323,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1324,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1325,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1326,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1327,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1328,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1329,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1330,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1331,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1332,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1333,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1334,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1335,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1336,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1337,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1338,[Threats to Democratic Insititutions and Values],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+1339,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1340,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1341,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1342,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1343,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1344,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1345,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1346,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1347,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1348,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1349,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1350,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1351,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1352,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1353,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1354,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1355,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1356,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1357,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1358,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1359,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1360,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1361,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1362,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1363,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1364,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1365,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1366,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1367,[Threats to Democratic Insititutions and Values],6,STEP 1: YES → STEP 2: YES → STEP 3: Escalate→ LABEL: 6
+1368,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1369,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1370,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1371,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1372,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1373,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1374,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1375,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1376,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1377,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1378,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1379,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1380,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1381,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1382,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1383,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1384,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1385,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1386,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1387,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1388,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1389,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1390,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1391,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1392,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1393,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1394,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1395,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1396,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1397,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1398,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1399,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1400,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1401,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1402,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1403,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1404,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1405,[Threats to Democratic Insititutions and Values],2,STEP 1: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+1406,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1407,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1408,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1409,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1410,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1411,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1412,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1413,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1414,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1415,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1416,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1417,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1418,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1419,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1420,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1421,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1422,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1423,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1424,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1425,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1426,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1427,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1428,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1429,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1430,[Threats to Democratic Insititutions and Values],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+1431,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1432,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1433,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1434,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1435,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1436,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1437,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1438,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1439,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1440,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1441,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1442,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1443,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1444,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1445,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1446,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1447,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1448,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1449,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1450,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1451,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1452,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1453,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1454,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1455,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1456,[Threats to Democratic Insititutions and Values],2,STEP 1: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+1457,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1458,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1459,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1460,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1461,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1462,[Threats to Democratic Insititutions and Values],1,STEP 1: NO → STEP 4: NO → LABEL: 0
+1463,[Threats to Democratic Insititutions and Values],1,STEP 1: NO → STEP 4: NO → LABEL: 0
+1464,[Threats to Democratic Insititutions and Values],1,STEP 1: NO → STEP 4: NO → LABEL: 0
+1465,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1466,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1467,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1468,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1469,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1470,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1471,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1472,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1473,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1474,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1475,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1476,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1477,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1478,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1479,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1480,[Threats to Democratic Insititutions and Values],2,STEP 1: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+1481,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1482,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1483,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1484,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1485,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1486,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1487,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1488,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1489,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1490,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1491,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1492,[Threats to Democratic Insititutions and Values],2,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+1493,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1494,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1495,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1496,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1497,[Threats to Democratic Insititutions and Values],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+1498,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1499,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1500,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1501,[Threats to Democratic Insititutions and Values],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+1502,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1503,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1504,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1505,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1506,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1507,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1508,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1509,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1510,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1511,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1512,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1513,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1514,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1515,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1516,[Threats to Democratic Insititutions and Values],6,STEP 1: YES → STEP 2: YES → STEP 3: Escalate→ LABEL: 6
+1517,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1518,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1519,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1520,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1521,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1522,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1523,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1524,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1525,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1526,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1527,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1528,[Threats to Democratic Insititutions and Values],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+1529,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1530,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1531,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1532,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1533,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1534,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1535,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1536,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1537,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1538,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1539,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1540,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1541,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1542,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1543,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1544,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1545,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1546,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1547,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1548,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1549,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1550,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1551,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1552,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1553,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1554,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1555,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1556,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1557,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1558,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1559,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1560,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1561,[Threats to Democratic Insititutions and Values],2,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Implicit → LABEL: 2
+1562,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1563,[Threats to Democratic Insititutions and Values],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+1564,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1565,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1566,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1567,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1568,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1569,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1570,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1571,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1572,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1573,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1574,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1575,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1576,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1577,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1578,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1579,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1580,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1581,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1582,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1583,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1584,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1585,[Threats to Democratic Insititutions and Values],1,STEP 1: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+1586,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1587,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1588,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1589,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1590,[Threats to Democratic Insititutions and Values],3,STEP 1: YES → STEP 2: YES → STEP 3: Report → LABEL: 3
+1591,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1592,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1593,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1594,[Threats to Democratic Insititutions and Values],0,STEP 1: YES → STEP 2: NO → STEP 4: NO → LABEL: 0
+1595,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1596,[Threats to Democratic Insititutions and Values],5,STEP 1: YES → STEP 2: YES → STEP 3: Counter → LABEL: 5
+1597,[Threats to Democratic Insititutions and Values],1,STEP 1: YES → STEP 2: NO → STEP 4: YES → STEP 5: Explicit → LABEL: 1
+1598,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
+1599,[Threats to Democratic Insititutions and Values],0,STEP 1: NO → STEP 4: NO → LABEL: 0
