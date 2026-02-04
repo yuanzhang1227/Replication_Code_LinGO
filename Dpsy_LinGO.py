@@ -1145,5 +1145,3 @@ if __name__ == "__main__":
         max_rounds=1,
         num_threads=1,
     )
-
-## Results: Claude (Test Accuracy: 0.4100; Test Weighted F1:  0.4583); Gemini (Test Accuracy: 0.6475; Test Weighted F1:  0.6645); GPT (Test Accuracy: 0.5075; Test Weighted F1:  0.5538)
