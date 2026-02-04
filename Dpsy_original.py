@@ -99,5 +99,3 @@ f1w = f1_score(y_true, y_pred, average="weighted")
 
 print(f"Test Accuracy:     {acc:.4f}")
 print(f"Test Weighted F1:  {f1w:.4f}")
-
-## Results: Claude (Test Accuracy: 0.5150; Test Weighted F1:  0.5398); Gemini (Test Accuracy: 0.6300; Test Weighted F1:  0.6060); GPT (Test Accuracy: 0.5400; Test Weighted F1:  0.5247)
