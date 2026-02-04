@@ -15,4 +15,6 @@ This repository contains all Python scripts used for the experiments in the pape
 - **Fine_tuning_parameters.sh**: parameters used for LLM LoRA fine-tuning  
 
 ## Data Availability
-We do not publicly share the datasets used in the experiments because they contain potentially identifiable personal information. The datasets can be provided privately to reviewers upon request during the review process.
+Due to privacy considerations and platform data-sharing restrictions, we do not release raw Twitter/X content or user identifiers. We share only derived annotations (incivility category labels, intention labels, and reasoning paths), which do not enable re-identification. 
+
+
