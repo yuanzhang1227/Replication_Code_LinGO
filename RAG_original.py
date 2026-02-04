@@ -295,5 +295,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-## Results: Claude (Test Accuracy: 0.4625; Test Weighted F1: 0.5193); Gemini (Test Accuracy: 0.6575; Test Weighted F1: 0.6814); GPT (Test Accuracy: 0.6525; Test Weighted F1: 0.6544)
