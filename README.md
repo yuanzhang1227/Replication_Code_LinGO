@@ -1,7 +1,7 @@
-# Replication Code for "LinGO: A Linguistic Graph Optimization Framework with LLMs for Interpreting Intents of Uncivil Discourse"
+# Replication Code for "LinGO: A Linguistic Graph Optimization Framework with LLMs for Interpreting Intents of Online Uncivil Discourse"
 
 This repository contains all Python scripts used for the experiments in the paper (for review purposes):  
-**LinGO: A Linguistic Graph Optimization Framework with LLMs for Interpreting Intents of Uncivil Discourse**
+**LinGO: A Linguistic Graph Optimization Framework with LLMs for Interpreting Intents of Online Uncivil Discourse**
 
 - **Baseline_experiments.py**: runs zero-shot and chain-of-thought (CoT) prompting  
 - **TextGrad_original.py**: runs direct optimization with TextGrad  
